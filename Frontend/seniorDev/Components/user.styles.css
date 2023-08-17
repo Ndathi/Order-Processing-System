@@ -1,0 +1,11 @@
+.list_btn{
+    background-color: darkslategrey;
+    border-radius: 5px;
+    margin: 2px;
+    margin-top: 18px;
+}
+#listItem_name{
+    margin-right: 50px;
+    margin-top: 20px;
+    color: white;
+}
